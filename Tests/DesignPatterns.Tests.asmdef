@@ -1,0 +1,16 @@
+{
+    "name": "DesignPatterns.Tests",
+    "rootNamespace": "DesignPatterns",
+    "references": [
+        "GUID:feb807ff8b26f844e88ff5d8de7b23e4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
